@@ -1,0 +1,14 @@
+SELECT store_product.sku, store_product.name, 
+store_product.brand, store_product.price, 
+store_product.in_stock_quantity
+FROM store_product 
+WHERE in_stock_quantity > 0 
+GROUP BY sku, in_stock_quantity
+
+
+SELECT store_product.sku, store_product.name, 
+store_product.brand, store_product.price, 
+store_product.in_stock_quantity
+FROM store_product 
+WHERE in_stock_quantity = 0 
+GROUP BY sku, in_stock_quantity
