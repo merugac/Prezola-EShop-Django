@@ -59,7 +59,7 @@ docker ps
 
 # Features:
 
-SignUp to Create to User Account
+SignUp to Create User Account
 
 Login page for Registered Users
 
@@ -106,6 +106,8 @@ Logout from the application
 Implementing Inventory Management
 
 Generating Invoices
+
+SignUp with Google API and Facebook API
 
 Integrating web app with social media.
 
