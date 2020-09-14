@@ -103,9 +103,15 @@ Logout from the application
 
 ## Improvements
 
+Implementing Inventory Management
+
+Generating Invoices
+
+Integrating web app with social media.
+
 Custom dashboard for end users with custom look and feel.
 
-Developing Rich Fornt end UI application behaviour with JavaScript and navigation links to other pages
+Developing Rich Fornt end UI application behaviour with JavaScript and CSS framworks and navigation links to other pages
 
 Add Child Page Buttons to drilldown further
 
@@ -130,13 +136,8 @@ Django web application security Protecting user data & design Django's built-in 
 
 Implementing Chatbot Agent to address user queries and product information 
 
+Multi Lingual & supporting Multi Currencies
+
+Coupoun Management
+
 And many more.....
-
-
-
-
-
-
-
-
-
