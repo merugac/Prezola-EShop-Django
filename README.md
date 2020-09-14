@@ -81,6 +81,41 @@ session identifying requests from users by server
 Creating cart object in session
 Logout from the application
 
+## Improvements
+
+Custom dashboard for end users with custom look and feel.
+
+Developing Rich Fornt end UI application behaviour with JavaScript and navigation links to other pages
+
+Add Child Page Buttons to drilldown further
+
+Developing Django models, views and forms with a particular emphasis in improving the experience of end-users.
+
+Defyning how to register the models with the admin site. & modified versions of admin panel
+
+site-specific settings, urls, models, views, and templates.
+
+Defyning Models Creating database tables for the application using Django models. 
+
+Django ORM to query the database and filter through results.
+
+Sessions Framework adding a session-based visit-counter to the home page.
+
+User Authentication & Permissions Email and Password Reset we can use email to send a password reset link to a user so that the user can reset their password
+
+Payment gateway is the part of the checkout page that collects the customer’s billing information and sends it to the payment 
+processing which was selected on various factors like supported cards, payment methods, security features, monthly fees, fee per txn..
+
+Django web application security Protecting user data & design Django's built-in protections to handle security threats
+
+Implementing Chatbot Agent to address user queries and product information 
+
+And many more.....
+
+
+
+
+
 
 
 
