@@ -18,8 +18,14 @@ python manage.py runserver
 
 open in browser http://127.0.0.1:8000/
 
-Admin Panel http://127.0.0.1:8000/admin
+Admin Panel Access: http://127.0.0.1:8000/admin
 user: admin, psw: admin
+
+Accessing the Database:
+
+open https://sqliteonline.com/
+
+Open File Menu > OpenDB > browse for db.sqlite3 file in Prezola-Django folder and runthe SQL commands to get data from database.
 
 Application Code along with docker file for creating the docker image for EShop Application
 
@@ -68,6 +74,7 @@ Listing Category in Home Page for filtering Products
 Customer Form Submission & Redirection to Home Page after successful login by mapping in url
 Form Validation
 Email Validation to avoid duplication in registration
+Storing products, categories, customers, sessions, users in database
 Refactoring the code without changing its behavior
 Password Hashing & Encryption using Hashers, makepassword and check password modules
 session identifying requests from users by server
