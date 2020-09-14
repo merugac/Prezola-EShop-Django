@@ -60,25 +60,45 @@ docker ps
 # Features:
 
 SignUp to Create to User Account
+
 Login page for Registered Users
+
 Add/Remove Products
+
 Add/Remove Product Categories
+
 Add Products to Cart
+
 Increase and Decrease Quantities
+
 Cart Checkout
+
 Placing Orders
+
 Listing Orders
+
 Uploading Product Images
+
 Navbar added to Home Page
+
 Listing Category in Home Page for filtering Products
+
 Customer Form Submission & Redirection to Home Page after successful login by mapping in url
+
 Form Validation
+
 Email Validation to avoid duplication in registration
+
 Storing products, categories, customers, sessions, users in database
+
 Refactoring the code without changing its behavior
+
 Password Hashing & Encryption using Hashers, makepassword and check password modules
+
 session identifying requests from users by server
+
 Creating cart object in session
+
 Logout from the application
 
 ## Improvements
