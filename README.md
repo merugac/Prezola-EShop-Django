@@ -140,7 +140,7 @@ Multi Lingual & supporting Multi Currencies
 
 Coupoun Management
 
-Using Tag Manager to manage and deploy marketing tags on website to collect customer data for further analysys.
+Implementing Tag Manager to manage and deploy marketing tags on website to collect customer data for further analysys.
 
 
 
